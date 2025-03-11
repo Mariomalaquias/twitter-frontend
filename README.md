@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Twitter Frontend Clone
 
-## Getting Started
+Este é um projeto de clone do frontend do Twitter, desenvolvido como parte do curso de React da B7WEB.
 
-First, run the development server:
+## iniciando o projeto
 
-```bash
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+# Twitter Frontend Clone
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este é um projeto de clone do frontend do Twitter, desenvolvido como parte do curso de React da B7WEB.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tecnologias Utilizadas
 
-## Deploy on Vercel
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Next.js**: Framework React para renderização do lado do servidor e geração de sites estáticos.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+- **Styled Components**: Biblioteca para estilização de componentes utilizando CSS-in-JS.
+- **Axios**: Cliente HTTP baseado em Promises para fazer requisições à API.
+- **Vercel**: Plataforma de hospedagem para aplicações frontend.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## O que Aprendi
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### React e Next.js
+- **Componentização**: Criação de componentes reutilizáveis e modulares.
+- **Hooks**: Utilização de hooks como `useState`, `useEffect` e `useContext` para gerenciar estado e efeitos colaterais.
+- **SSR e SSG**: Implementação de Server-Side Rendering (SSR) e Static Site Generation (SSG) com Next.js para melhorar a performance e SEO.
+
+### TypeScript
+- **Tipagem Estática**: Definição de tipos para variáveis, funções e componentes, aumentando a segurança e previsibilidade do código.
+- **Interfaces e Tipos**: Criação de interfaces e tipos personalizados para melhor descrever a estrutura dos dados.
+
+### Styled Components
+- **CSS-in-JS**: Estilização de componentes diretamente no JavaScript, permitindo escopo local e temas dinâmicos.
+- **Temas**: Implementação de temas globais para estilização consistente através da aplicação.
+
+### Axios
+- **Requisições HTTP**: Configuração e realização de requisições HTTP para consumir APIs RESTful.
+- **Interceptors**: Utilização de interceptors para adicionar lógica antes e depois das requisições.
+
+### Vercel
+- **Deploy Contínuo**: Configuração de deploy contínuo para automatizar a publicação de novas versões da aplicação.
+- **Otimização**: Utilização de ferramentas de otimização do Vercel para melhorar a performance da aplicação.
+
+## Conclusão
+
+Desenvolver este projeto foi uma experiência enriquecedora que me permitiu aprofundar meus conhecimentos em React, Next.js e TypeScript, além de explorar novas tecnologias como Styled Components e Axios. Estou confiante de que as habilidades adquiridas serão valiosas para futuros projetos e oportunidades profissionais.
+
+---
+
+**Contato:**
+- [LinkedIn](https://github.com/Mariomalaquias/twitter-frontend)
+- [GitHub](https://github.com/Mariomalaquias/twitter-frontend)
